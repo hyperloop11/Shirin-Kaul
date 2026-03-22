@@ -16,7 +16,7 @@ nav-menu: true
 
 <!-- Content -->
 <p>
-	I am a software developer. My aim, whatever I do, is to achieve excellence and perfection in my work. I am currently in Final Year at IIT Dhanbad. I love participating in hackathons, transforming ideas in software and learning new technologies, languages and tools.
+	I am a software developer. My aim, whatever I do, is to achieve excellence and perfection in my work. I am working in Microsoft as a software developer in Azure Soverign Cloud organization. I am passionate about cloud and AI integration with user systems.  
 </p>
 <hr>
 <center>
@@ -80,7 +80,16 @@ nav-menu: true
 <br>
 <h2 id="content">ACHIEVEMENTS</h2>
 <hr>
-		<h4>Samsung Innovation Award 2021-22: Finalist Team</h4>
+<h4>Executive challange winner: Microsoft global hackathon</h4>
+<p>Part of a Microsoft-wide hackathon that created copilot to assisted users in performing context-heavy VM creation and creating correct pre-requisite resources for it. It recieved funding from CVP of Azure E + P team and now is productized, becomming a core part of my team's adaptive cloud strategy.</p>
+<br>
+<h4>Impact award for customer obsession</h4>
+<p>I have won two customer obsession award for my work as a part of enabling cloud deployemnts for users and enabling Software defined networking on Azure Local VMs for creating secure networking options for users.</p>
+<br>
+<h4>Microsoft RoboRumble 2023: Winning team </h4>
+<p>As a part of Microsoft's robotics competition, won first place by designing two robots for two consecutive rounds: first one was a maze-following bot and other one was capture the flag of opposite team.</p>
+<br>
+<h4>Samsung Innovation Award 2021-22: Finalist Team</h4>
 <p>Part of a team hackathon, organized by Samsubng, which made to the finals with only 7 other teams from across India. In synergy with that years theme Metaverse, our team of three members worked on a VR application which stimullates breathing exercises, healing chants and ambient music for an immersive yoga experience.</p>
 <br>
 <h4>Fall Fest Hackathon: First Runner Up Team</h4>
