@@ -8,6 +8,26 @@ nav-menu: true
 
 <h2> Experience </h2>
 <hr>
+<h3>Microsoft, India - Software Engineer </h3>
+<h4>May 2023 - present</h4>
+<ul>
+ 	<li> Engineered and integrated Azure local troubleshooting agents within the Azure Portal copilot  ecosystem, assisting in resolution of cluster deployment, update, and permission issues; reducing customer support overhead.</li>
+	<li>Implemented Software Defined Networking (SDN) on Azure Portal, enabling a secure VM deployment experience for 1,000+ new users weekly.
+ </li>
+	<li>Drove quality and consistency across critical VM workflows, like Logical networks and storage paths, empowering users to deploy and manage VMs on Edge devices via Azure Portal, affecting 1100+ users per week. </li>
+<li>Developed Copilot for Azure Local VM during MS hackathon; project received recognition from the CVP of org and was productized in March. </li>
+	<li>Maintained and enhanced security features of Azure Arc Jumpstart (and its open source repo), also contributed to continuous data pipelines, saving around 10 dev hours per week on deployment and improved 3 seconds of first paint latency.
+ </li>
+	<li>Drove security for Azure stack HCI catalog, adding important security patches and maintaining infra health.  </li>
+</ul>
+ <ul class="actions">
+  <li><a href="#" class="button special small">Azure open AI</a></li>
+  <li><a href="#" class="button special small">Express JS</a></li>
+  <li><a href="#" class="button special small">Node JS</a></li>
+	<li><a href="#" class="button special small">React</a></li>
+	 <li><a href="#" class="button special small">Typescript</a></li>
+</ul>
+<hr>
 <h3>Microsoft, India - Software Engineering Intern </h3>
 <h4>May 2022 - July 2022</h4>
 <ul>
